@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Complete assignment",
+    "description": "Finish the intern test task",
+    "status": "todo",
+    "priority": "high",
+    "due_date": "2026-06-15",
+    "id": 1,
+    "created_at": "2026-06-09T12:07:29.195689+05:30",
+    "updated_at": "2026-06-09T12:07:29.195689+05:30"
+  },
+  {
+    "title": "Intern Task",
+    "description": "complete the intern task within 15th of June ",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2026-06-15",
+    "id": 5,
+    "created_at": "2026-06-10T12:15:10.048075+05:30",
+    "updated_at": "2026-06-10T12:15:10.048075+05:30"
+  },
+  {
+    "title": "play ",
+    "description": "play cricket",
+    "status": "todo",
+    "priority": "medium",
+    "due_date": "2026-06-17",
+    "id": 6,
+    "created_at": "2026-06-10T12:17:30.600066+05:30",
+    "updated_at": "2026-06-10T12:17:30.600066+05:30"
+  },
+  {
+    "title": "Design database schema",
+    "description": "Create the initial database schema for the project",
+    "status": "done",
+    "priority": "high",
+    "due_date": "2026-06-01",
+    "id": 7,
+    "created_at": "2026-06-10T12:53:45.841915+05:30",
+    "updated_at": "2026-06-10T12:53:45.841915+05:30"
+  },
+  {
+    "title": "Set up FastAPI backend",
+    "description": "Initialize the FastAPI project and configure dependencies",
+    "status": "done",
+    "priority": "high",
+    "due_date": "2026-06-03",
+    "id": 8,
+    "created_at": "2026-06-10T12:53:45.852792+05:30",
+    "updated_at": "2026-06-10T12:53:45.852792+05:30"
+  },
+  {
+    "title": "Build React frontend",
+    "description": "Create the Next.js frontend with TypeScript",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2026-06-10",
+    "id": 9,
+    "created_at": "2026-06-10T12:53:45.859119+05:30",
+    "updated_at": "2026-06-10T12:53:45.859119+05:30"
+  },
+  {
+    "title": "Write unit tests",
+    "description": "Write tests for all API endpoints",
+    "status": "todo",
+    "priority": "medium",
+    "due_date": "2026-06-12",
+    "id": 10,
+    "created_at": "2026-06-10T12:53:45.864494+05:30",
+    "updated_at": "2026-06-10T12:53:45.864494+05:30"
+  },
+  {
+    "title": "Deploy to production",
+    "description": "Deploy the app to a cloud provider",
+    "status": "todo",
+    "priority": "low",
+    "due_date": "2026-06-20",
+    "id": 11,
+    "created_at": "2026-06-10T12:53:45.870966+05:30",
+    "updated_at": "2026-06-10T12:53:45.870966+05:30"
+  }
+]
